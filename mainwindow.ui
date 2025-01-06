@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="windowModality">
+   <enum>Qt::WindowModality::ApplicationModal</enum>
+  </property>
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1800</width>
+    <height>1000</height>
+   </rect>
+  </property>
+  <property name="focusPolicy">
+   <enum>Qt::FocusPolicy::NoFocus</enum>
+  </property>
+  <property name="windowTitle">
+   <string>CAN SIMULATOR - CODOREAN LUCA-ANDREI 30233 @2024</string>
+  </property>
+  <property name="layoutDirection">
+   <enum>Qt::LayoutDirection::LeftToRight</enum>
+  </property>
+  <property name="autoFillBackground">
+   <bool>false</bool>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: #DAD6D6;
+color: black;</string>
+  </property>
+  <property name="animated">
+   <bool>true</bool>
+  </property>
+  <property name="tabShape">
+   <enum>QTabWidget::TabShape::Rounded</enum>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <widget class="QFrame" name="frame">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>800</y>
+      <width>931</width>
+      <height>181</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: #B2B0B0;</string>
+    </property>
+    <property name="frameShape">
+     <enum>QFrame::Shape::Box</enum>
+    </property>
+    <property name="frameShadow">
+     <enum>QFrame::Shadow::Raised</enum>
+    </property>
+    <widget class="QComboBox" name="cbNodes">
+     <property name="geometry">
+      <rect>
+       <x>142</x>
+       <y>20</y>
+       <width>241</width>
+       <height>21</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">background-color: #D9D9D9</string>
+     </property>
+    </widget>
+    <widget class="QTextEdit" name="txtCurrentData">
+     <property name="geometry">
+      <rect>
+       <x>142</x>
+       <y>50</y>
+       <width>241</width>
+       <height>91</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">background-color: #D9D9D9</string>
+     </property>
+    </widget>
+    <widget class="QLabel" name="lblSelected">
+     <property name="geometry">
+      <rect>
+       <x>20</x>
+       <y>20</y>
+       <width>141</width>
+       <height>21</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">background-color: transparent</string>
+     </property>
+     <property name="text">
+      <string>Selected node:</string>
+     </property>
+    </widget>
+    <widget class="QLabel" name="lblCurrentData">
+     <property name="geometry">
+      <rect>
+       <x>20</x>
+       <y>50</y>
+       <width>141</width>
+       <height>21</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">background-color: transparent</string>
+     </property>
+     <property name="text">
+      <string>Current frame details:</string>
+     </property>
+    </widget>
+    <widget class="QTextEdit" name="txtLog">
+     <property name="geometry">
+      <rect>
+       <x>580</x>
+       <y>20</y>
+       <width>341</width>
+       <height>111</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">background-color: #D9D9D9</string>
+     </property>
+    </widget>
+    <widget class="QLabel" name="lblLog">
+     <property name="geometry">
+      <rect>
+       <x>580</x>
+       <y>0</y>
+       <width>31</width>
+       <height>21</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">background-color: transparent;</string>
+     </property>
+     <property name="text">
+      <string>Log:</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btnNextStep">
+     <property name="geometry">
+      <rect>
+       <x>410</x>
+       <y>20</y>
+       <width>141</width>
+       <height>24</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Step in</string>
+     </property>
+    </widget>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1800</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QMenuBar {
+background-color: #565151; 
+}
+QMenu {
+	background-color: #D9D9D9;
+	color: white; 
+}
+QMenu::item {
+		color: black;
+        background-color: #B1AFAF; 
+        padding: 8px 20px;            
+    }
+    QMenu::item:selected {           
+        background-color: #555555;  
+    }
+    QMenu::separator {
+        height: 1px;
+        background-color: #444444;          
+        margin: 4px 0px;
+    }
+
+QAction {
+	background-color: #B1AFAF;
+}</string>
+   </property>
+   <widget class="QMenu" name="menuAdd_note">
+    <property name="autoFillBackground">
+     <bool>false</bool>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: #B1AFAF;</string>
+    </property>
+    <property name="title">
+     <string>Add note</string>
+    </property>
+    <addaction name="actionServer_Node"/>
+    <addaction name="actionArithmetic_Logic_Client_Node"/>
+    <addaction name="actionRGB_Client_Node"/>
+   </widget>
+   <widget class="QMenu" name="menuSimulate">
+    <property name="styleSheet">
+     <string notr="true">background-color: #B1AFAF;</string>
+    </property>
+    <property name="title">
+     <string>Options</string>
+    </property>
+    <addaction name="actionSimulate"/>
+    <addaction name="actionReset"/>
+   </widget>
+   <widget class="QMenu" name="menuPresets">
+    <property name="styleSheet">
+     <string>background-color: #B1AFAF;</string>
+    </property>
+    <property name="title">
+     <string>Presets</string>
+    </property>
+    <addaction name="clientServerExample"/>
+    <addaction name="separator"/>
+    <addaction name="firstExample"/>
+    <addaction name="secondExample"/>
+    <addaction name="thirdExample"/>
+    <addaction name="separator"/>
+    <addaction name="sixthExample"/>
+    <addaction name="fifthExample"/>
+   </widget>
+   <addaction name="menuAdd_note"/>
+   <addaction name="menuSimulate"/>
+   <addaction name="menuPresets"/>
+  </widget>
+  <action name="actionRGB_Client_Node">
+   <property name="text">
+    <string>RGB Client Node</string>
+   </property>
+  </action>
+  <action name="firstExample">
+   <property name="text">
+    <string>1 ALC, 1 RGBCL 1 color swap</string>
+   </property>
+  </action>
+  <action name="actionSimulate">
+   <property name="text">
+    <string>Simulate</string>
+   </property>
+  </action>
+  <action name="actionReset">
+   <property name="text">
+    <string>Reset</string>
+   </property>
+  </action>
+  <action name="actionArithmetic_Logic_Client_Node">
+   <property name="checkable">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Arithmetic &amp; Logic Client Node</string>
+   </property>
+  </action>
+  <action name="actionServer_Node">
+   <property name="text">
+    <string>Server Node</string>
+   </property>
+  </action>
+  <action name="secondExample">
+   <property name="text">
+    <string>1 ALC, 1 RGBCL, 2 color swaps</string>
+   </property>
+  </action>
+  <action name="thirdExample">
+   <property name="text">
+    <string>1 ALC, 2 RGBCL, 1 color swap each</string>
+   </property>
+  </action>
+  <action name="clientServerExample">
+   <property name="text">
+    <string>Client-Server Communication</string>
+   </property>
+   <property name="priority">
+    <enum>QAction::Priority::NormalPriority</enum>
+   </property>
+  </action>
+  <action name="actiontete">
+   <property name="text">
+    <string>tete</string>
+   </property>
+  </action>
+  <action name="fifthExample">
+   <property name="text">
+    <string>Complex communication example</string>
+   </property>
+  </action>
+  <action name="sixthExample">
+   <property name="text">
+    <string>Invalid destination error catcher</string>
+   </property>
+  </action>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>imagine_calculator.png</file>
+        <file>imagine_server.png</file>
+    </qresource>
+</RCC>

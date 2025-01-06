@@ -1,0 +1,94 @@
+# ninja log v6
+633	10873	7577636506476445	CMakeFiles/CAN_SIMULATOR.dir/alclientnode.cpp.obj	c3b832b4cc5f1cd1
+2029	6231	7559800016033337	CMakeFiles/CAN_SIMULATOR.dir/draggable.cpp.obj	2589d5a6f6e3cd7f
+752	3360	7559799465331027	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	8979651f907c740
+5	748	7559799464055588	untitled_autogen/timestamp	35ebf0bac71a98cc
+5	748	7559799464055588	untitled_autogen/mocs_compilation.cpp	35ebf0bac71a98cc
+288	5996	7578998725260131	CMakeFiles/CAN_SIMULATOR.dir/rgbclientnode.cpp.obj	33dbc9572f7f9ca4
+5	748	7559799464055588	E:/UNIVERSITY/AN III/Structura sistemelor de calcul/Proiect/CAN_SIM/untitled/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/untitled_autogen/timestamp	35ebf0bac71a98cc
+3526	3848	7559799493062485	untitled.exe	dfb0bbe1293fda1e
+5	748	7559799464055588	E:/UNIVERSITY/AN III/Structura sistemelor de calcul/Proiect/CAN_SIM/untitled/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	35ebf0bac71a98cc
+1077	3483	7577686481878366	CMakeFiles/CAN_SIMULATOR.dir/linewidget.cpp.obj	31d06d4c8a4a348f
+14	268	7578998722526536	E:/UNIVERSITY/AN III/Structura sistemelor de calcul/Proiect/CAN_SIM/untitled/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CAN_SIMULATOR_autogen/timestamp	829c77d5c0ee673e
+758	3371	7559799465381027	CMakeFiles/untitled.dir/main.cpp.obj	4f4ea16651a56c10
+763	3525	7559799465430993	CMakeFiles/untitled.dir/mainwindow.cpp.obj	3e8bb797e3a6af22
+14	268	7578998722526536	CAN_SIMULATOR_autogen/timestamp	829c77d5c0ee673e
+14	268	7578998722526536	CAN_SIMULATOR_autogen/mocs_compilation.cpp	829c77d5c0ee673e
+14	268	7578998722526536	E:/UNIVERSITY/AN III/Structura sistemelor de calcul/Proiect/CAN_SIM/untitled/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CAN_SIMULATOR_autogen/mocs_compilation.cpp	829c77d5c0ee673e
+1870	2000	7559800015580776	CAN_SIMULATOR_autogen/EWIEGA46WW/qrc_resources.cpp	3bc1bdbd43f59de3
+297	3747	7578998725345494	CMakeFiles/CAN_SIMULATOR.dir/SimulationController.cpp.obj	bce2717594895967
+2036	8228	7559800016093339	CMakeFiles/CAN_SIMULATOR.dir/frame.cpp.obj	f812326b202e81d3
+1870	2000	7559800015580776	E:/UNIVERSITY/AN III/Structura sistemelor de calcul/Proiect/CAN_SIM/untitled/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CAN_SIMULATOR_autogen/EWIEGA46WW/qrc_resources.cpp	3bc1bdbd43f59de3
+2074	2218	7559800016475478	CMakeFiles/CAN_SIMULATOR.dir/CAN_SIMULATOR_autogen/EWIEGA46WW/qrc_resources.cpp.obj	cfabb997fd626c08
+280	3714	7578998725185315	CMakeFiles/CAN_SIMULATOR.dir/can_node.cpp.obj	1f3947de41200c46
+273	6193	7578998725109924	CMakeFiles/CAN_SIMULATOR.dir/main.cpp.obj	e85be64eabd12c02
+269	6383	7578998725069741	CMakeFiles/CAN_SIMULATOR.dir/CAN_SIMULATOR_autogen/mocs_compilation.cpp.obj	e539ae25cd1936e6
+257	5116	7577746311639698	CMakeFiles/CAN_SIMULATOR.dir/servernode.cpp.obj	de8320c5922fc92a
+617	10789	7577636506317850	CMakeFiles/CAN_SIMULATOR.dir/clientnode.cpp.obj	e63fae9bf8beea00
+284	6204	7578998725220119	CMakeFiles/CAN_SIMULATOR.dir/INode.cpp.obj	cda99bf908c3c55d
+276	8480	7578998725141596	CMakeFiles/CAN_SIMULATOR.dir/mainwindow.cpp.obj	f2b660d94ec8a889
+8480	10585	7578998807179955	CAN_SIMULATOR.exe	9861c436c8531313
+292	3965	7578998725310161	CMakeFiles/CAN_SIMULATOR.dir/scenario.cpp.obj	a763d6c426c5c432
+37	243	7579000274667365	CAN_SIMULATOR_autogen/timestamp	829c77d5c0ee673e
+37	243	7579000274667365	CAN_SIMULATOR_autogen/mocs_compilation.cpp	829c77d5c0ee673e
+37	243	7579000274667365	E:/UNIVERSITY/AN III/Structura sistemelor de calcul/Proiect/CAN_SIM/untitled/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CAN_SIMULATOR_autogen/timestamp	829c77d5c0ee673e
+37	243	7579000274667365	E:/UNIVERSITY/AN III/Structura sistemelor de calcul/Proiect/CAN_SIM/untitled/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CAN_SIMULATOR_autogen/mocs_compilation.cpp	829c77d5c0ee673e
+255	3842	7579000276847355	CMakeFiles/CAN_SIMULATOR.dir/can_node.cpp.obj	1f3947de41200c46
+274	3843	7579000277040285	CMakeFiles/CAN_SIMULATOR.dir/SimulationController.cpp.obj	bce2717594895967
+269	3948	7579000276984706	CMakeFiles/CAN_SIMULATOR.dir/scenario.cpp.obj	a763d6c426c5c432
+264	6083	7579000276936761	CMakeFiles/CAN_SIMULATOR.dir/rgbclientnode.cpp.obj	33dbc9572f7f9ca4
+244	6295	7579000276735432	CMakeFiles/CAN_SIMULATOR.dir/CAN_SIMULATOR_autogen/mocs_compilation.cpp.obj	e539ae25cd1936e6
+248	6297	7579000276765564	CMakeFiles/CAN_SIMULATOR.dir/main.cpp.obj	e85be64eabd12c02
+258	6305	7579000276881542	CMakeFiles/CAN_SIMULATOR.dir/INode.cpp.obj	cda99bf908c3c55d
+252	8880	7579000276817358	CMakeFiles/CAN_SIMULATOR.dir/mainwindow.cpp.obj	f2b660d94ec8a889
+8880	11088	7579000363092269	CAN_SIMULATOR.exe	9861c436c8531313
+34	220	7579000724939960	CAN_SIMULATOR_autogen/timestamp	829c77d5c0ee673e
+34	220	7579000724939960	CAN_SIMULATOR_autogen/mocs_compilation.cpp	829c77d5c0ee673e
+34	220	7579000724939960	E:/UNIVERSITY/AN III/Structura sistemelor de calcul/Proiect/CAN_SIM/untitled/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CAN_SIMULATOR_autogen/timestamp	829c77d5c0ee673e
+34	220	7579000724939960	E:/UNIVERSITY/AN III/Structura sistemelor de calcul/Proiect/CAN_SIM/untitled/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CAN_SIMULATOR_autogen/mocs_compilation.cpp	829c77d5c0ee673e
+233	3403	7579000726924754	CMakeFiles/CAN_SIMULATOR.dir/can_node.cpp.obj	1f3947de41200c46
+248	3485	7579000727076968	CMakeFiles/CAN_SIMULATOR.dir/SimulationController.cpp.obj	bce2717594895967
+244	3791	7579000727038646	CMakeFiles/CAN_SIMULATOR.dir/scenario.cpp.obj	a763d6c426c5c432
+240	5515	7579000726997994	CMakeFiles/CAN_SIMULATOR.dir/rgbclientnode.cpp.obj	33dbc9572f7f9ca4
+225	5660	7579000726849560	CMakeFiles/CAN_SIMULATOR.dir/main.cpp.obj	e85be64eabd12c02
+221	5844	7579000726809478	CMakeFiles/CAN_SIMULATOR.dir/CAN_SIMULATOR_autogen/mocs_compilation.cpp.obj	e539ae25cd1936e6
+237	5845	7579000726967258	CMakeFiles/CAN_SIMULATOR.dir/INode.cpp.obj	cda99bf908c3c55d
+229	8102	7579000726889590	CMakeFiles/CAN_SIMULATOR.dir/mainwindow.cpp.obj	f2b660d94ec8a889
+8102	10160	7579000805614538	CAN_SIMULATOR.exe	9861c436c8531313
+34	220	7579001057383220	CAN_SIMULATOR_autogen/timestamp	829c77d5c0ee673e
+34	220	7579001057383220	CAN_SIMULATOR_autogen/mocs_compilation.cpp	829c77d5c0ee673e
+34	220	7579001057383220	E:/UNIVERSITY/AN III/Structura sistemelor de calcul/Proiect/CAN_SIM/untitled/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CAN_SIMULATOR_autogen/timestamp	829c77d5c0ee673e
+34	220	7579001057383220	E:/UNIVERSITY/AN III/Structura sistemelor de calcul/Proiect/CAN_SIM/untitled/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CAN_SIMULATOR_autogen/mocs_compilation.cpp	829c77d5c0ee673e
+233	3011	7579001059372252	CMakeFiles/CAN_SIMULATOR.dir/can_node.cpp.obj	1f3947de41200c46
+248	3088	7579001059530530	CMakeFiles/CAN_SIMULATOR.dir/SimulationController.cpp.obj	bce2717594895967
+244	3272	7579001059481643	CMakeFiles/CAN_SIMULATOR.dir/scenario.cpp.obj	a763d6c426c5c432
+240	5076	7579001059441617	CMakeFiles/CAN_SIMULATOR.dir/rgbclientnode.cpp.obj	33dbc9572f7f9ca4
+225	5107	7579001059294336	CMakeFiles/CAN_SIMULATOR.dir/main.cpp.obj	e85be64eabd12c02
+236	5286	7579001059411559	CMakeFiles/CAN_SIMULATOR.dir/INode.cpp.obj	cda99bf908c3c55d
+221	5328	7579001059253746	CMakeFiles/CAN_SIMULATOR.dir/CAN_SIMULATOR_autogen/mocs_compilation.cpp.obj	e539ae25cd1936e6
+229	7394	7579001059331873	CMakeFiles/CAN_SIMULATOR.dir/mainwindow.cpp.obj	f2b660d94ec8a889
+7394	9404	7579001130978772	CAN_SIMULATOR.exe	9861c436c8531313
+36	221	7579002122152980	CAN_SIMULATOR_autogen/timestamp	829c77d5c0ee673e
+36	221	7579002122152980	CAN_SIMULATOR_autogen/mocs_compilation.cpp	829c77d5c0ee673e
+36	221	7579002122152980	E:/UNIVERSITY/AN III/Structura sistemelor de calcul/Proiect/CAN_SIM/untitled/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CAN_SIMULATOR_autogen/timestamp	829c77d5c0ee673e
+36	221	7579002122152980	E:/UNIVERSITY/AN III/Structura sistemelor de calcul/Proiect/CAN_SIM/untitled/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CAN_SIMULATOR_autogen/mocs_compilation.cpp	829c77d5c0ee673e
+232	2621	7579002124123175	CMakeFiles/CAN_SIMULATOR.dir/can_node.cpp.obj	1f3947de41200c46
+244	2649	7579002124233564	CMakeFiles/CAN_SIMULATOR.dir/SimulationController.cpp.obj	bce2717594895967
+239	2825	7579002124183559	CMakeFiles/CAN_SIMULATOR.dir/scenario.cpp.obj	a763d6c426c5c432
+236	4335	7579002124153145	CMakeFiles/CAN_SIMULATOR.dir/rgbclientnode.cpp.obj	33dbc9572f7f9ca4
+225	4444	7579002124043174	CMakeFiles/CAN_SIMULATOR.dir/main.cpp.obj	e85be64eabd12c02
+222	4552	7579002124013151	CMakeFiles/CAN_SIMULATOR.dir/CAN_SIMULATOR_autogen/mocs_compilation.cpp.obj	e539ae25cd1936e6
+229	6608	7579002124083167	CMakeFiles/CAN_SIMULATOR.dir/mainwindow.cpp.obj	f2b660d94ec8a889
+6608	8514	7579002187878910	CAN_SIMULATOR.exe	9861c436c8531313
+38	241	7579002825236078	CAN_SIMULATOR_autogen/timestamp	829c77d5c0ee673e
+38	241	7579002825236078	CAN_SIMULATOR_autogen/mocs_compilation.cpp	829c77d5c0ee673e
+38	241	7579002825236078	E:/UNIVERSITY/AN III/Structura sistemelor de calcul/Proiect/CAN_SIM/untitled/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CAN_SIMULATOR_autogen/timestamp	829c77d5c0ee673e
+38	241	7579002825236078	E:/UNIVERSITY/AN III/Structura sistemelor de calcul/Proiect/CAN_SIM/untitled/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CAN_SIMULATOR_autogen/mocs_compilation.cpp	829c77d5c0ee673e
+253	2695	7579002827380067	CMakeFiles/CAN_SIMULATOR.dir/can_node.cpp.obj	1f3947de41200c46
+264	2710	7579002827494739	CMakeFiles/CAN_SIMULATOR.dir/SimulationController.cpp.obj	bce2717594895967
+260	2882	7579002827453252	CMakeFiles/CAN_SIMULATOR.dir/scenario.cpp.obj	a763d6c426c5c432
+256	4285	7579002827412300	CMakeFiles/CAN_SIMULATOR.dir/rgbclientnode.cpp.obj	33dbc9572f7f9ca4
+246	4460	7579002827311816	CMakeFiles/CAN_SIMULATOR.dir/main.cpp.obj	e85be64eabd12c02
+242	4461	7579002827271669	CMakeFiles/CAN_SIMULATOR.dir/CAN_SIMULATOR_autogen/mocs_compilation.cpp.obj	e539ae25cd1936e6
+249	6434	7579002827342557	CMakeFiles/CAN_SIMULATOR.dir/mainwindow.cpp.obj	f2b660d94ec8a889
+6434	8344	7579002889191211	CAN_SIMULATOR.exe	9861c436c8531313
